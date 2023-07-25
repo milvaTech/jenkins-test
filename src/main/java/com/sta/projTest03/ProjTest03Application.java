@@ -19,6 +19,7 @@ public class ProjTest03Application {
 
 	private static final Logger log = LoggerFactory.getLogger(ProjTest03Application.class);
 
+
 	public static void main(String[] args) {
 		SpringApplication.run(ProjTest03Application.class, args);
 
